@@ -4,3 +4,5 @@ for i in count:
 
 while True:
 	print("rejish ragavan")
+for i in count:
+	print("rasika priya")
